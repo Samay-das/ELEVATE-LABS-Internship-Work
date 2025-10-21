@@ -56,4 +56,5 @@ This launches an SSH client directly from your browser.
 ## Reference :
 Google Cloud Skill Boost :
 
-[Create a Virtual Machine]([https://www.cloudskillsboost.google/course_templates/754/labs/584200](https://www.skills.google/focuses/3563?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=56477740))
+[Create a Virtual Machine](https://www.skills.google/focuses/3563?parent=catalog)
+
